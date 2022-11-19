@@ -1,35 +1,49 @@
 {
   "project_info": {
-    "project_number": "857938940452",
-    "firebase_url": "https://firestorerecycleradapterdemo.firebaseio.com",
-    "project_id": "firestorerecycleradapterdemo",
-    "storage_bucket": "firestorerecycleradapterdemo.appspot.com"
+    "project_number": "253991116436",
+    "project_id": "chatapplivestream-7fb09",
+    "storage_bucket": "chatapplivestream-7fb09.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:857938940452:android:91de4f4a2903d189187eb1",
+        "mobilesdk_app_id": "1:253991116436:android:32f9eecdb26cc07e615e81",
         "android_client_info": {
           "package_name": "com.example.firestorerecycleradapterdemo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "857938940452-csi4dolgc7eici343vv5prsujchp6mol.apps.googleusercontent.com",
+          "client_id": "253991116436-af0kb8ukb29ebv3s3kg7qso047mma634.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firestorerecycleradapterdemo",
+            "certificate_hash": "1922a4d701a83d098f0493e98e21922d5a5fb054"
+          }
+        },
+        {
+          "client_id": "253991116436-uvd4dajq4iiat4pfsolg5f2l0n79rvns.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC-GpiXK2efuKx0wOfanEaaq7acVzeHtlg"
+          "current_key": "AIzaSyBmL_12l96wC-XYf4C_8fvQ95CSoPUlyEM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "857938940452-csi4dolgc7eici343vv5prsujchp6mol.apps.googleusercontent.com",
+              "client_id": "253991116436-uvd4dajq4iiat4pfsolg5f2l0n79rvns.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "253991116436-qikbtjjvuugbuo5v1ur11kfl74s4t3cp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.fluttercrypto1.chatAppLiveStream"
+              }
             }
           ]
         }
