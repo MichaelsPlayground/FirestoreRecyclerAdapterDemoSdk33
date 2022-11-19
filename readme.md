@@ -4,6 +4,6 @@ Description: https://medium.com/@akhilkc9/simple-android-chat-application-using-
 
 Original source: https://github.com/imuraki/FirestoreRecyclerAdapterDemo
 
-The original code was for a lower Android SDK, updated
+The original code was for a lower Android SDK, updated to SDK 33
  
-
+RUNNING !
